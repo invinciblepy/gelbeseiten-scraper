@@ -36,3 +36,16 @@ python main.py -k apotheken -l berlin
 
 All scraped data will be saved to the `output` directory located in the project’s base folder.  
 An example output file is included for reference.
+
+
+## Tags
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Tool-brightgreen)
+![B2B Leads](https://img.shields.io/badge/B2B-Leads-orange)
+![GelbeSeiten](https://img.shields.io/badge/GelbeSeiten-Scraper-blueviolet)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Used-informational)
+![Requests](https://img.shields.io/badge/Requests-Library-lightgrey)
+![CSV Export](https://img.shields.io/badge/CSV-Export-yellowgreen)
+![Automation](https://img.shields.io/badge/Automation-Enabled-success)
+
